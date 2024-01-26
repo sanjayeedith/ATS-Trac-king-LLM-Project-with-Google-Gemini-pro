@@ -2,4 +2,4 @@
 google-generativeai
 python-dotenv
 pdf2image
-import pytesseract
+pytesseract
