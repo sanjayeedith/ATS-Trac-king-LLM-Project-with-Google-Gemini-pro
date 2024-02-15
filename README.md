@@ -6,6 +6,8 @@ And add the file path to the Environment variables
 
 
 *Important Note:* To Avoid Error 403
+
+
  Use >> streamlit run your_app.py --server.enableXsrfProtection=false
 
 
